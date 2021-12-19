@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning C++.
 - 🔭 I plan on learning HTML, CSS, and JavaScript.
-- 💬 On the rare occasion that I write on paper I use a fountain pen.
-- ⚡ Fun fact: My first line of code was not "Hello World!"
+- 🖋️ On the rare occasion that I write on paper I use a fountain pen.
+- ⚡ Fun fact: My first line of code was not "Hello World"..
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=betalost&show_icons=true&theme=dracula" alt="BetaLost" /></p>
