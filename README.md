@@ -9,5 +9,6 @@
 - 💬 On the rare occasion that I write on paper I use a fountain pen.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
-![Beta_Lost's GitHub stats](https://github-readme-stats.vercel.app/api?username=betalost&show_icons=true&theme=dracula)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=betalost&show_icons=true&theme=dracula" alt="BetaLost" /></p>
 
