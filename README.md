@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning JavaScript.
 - 🔭 I plan on learning HTML, CSS, and C++.
-- 🖋️ On the rare occasion that I write on paper I use a fountain pen.
+- 🖋️ Fountain pens > any other type of pen/pencil/writing utensil.
 - ⚡ Fun fact: My first line of code was not "Hello World"..
 
 
