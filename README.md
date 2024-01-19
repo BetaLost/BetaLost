@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Rust.
 - 🔭 I plan on learning advanced web development.
-- 🖋️ Fountain pens > any other type of pen/pencil/writing utensil.
+- 🖋️ Fountain pens > any other type of writing implement.
 - ⚡ Fun fact: My first line of code was not "Hello World"..
 
 
